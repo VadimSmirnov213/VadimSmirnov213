@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <h3 align="center">Full-Stack Developer from Russia 🇷🇺</h3>
 <h3 align="center">Experience:</h3>
 <h3 align="center">Created projects using various technologies. Worked on both front-end and back-end development, as well as full stack development. Familiar with using Git.</h3>
-<p class="paragraph1">Paragraph 1</p>
+<p class="paragraph1" align="center">Paragraph 1</p>
