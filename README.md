@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **VadimSmirnov213/VadimSmirnov213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 <h3 align="center">Full-Stack Developer from Russia 🇷🇺</h3>
 <h3 align="center">Experience:</h3>
 <h3 align="center">Created projects using various technologies. Worked on both front-end and back-end development, as well as full stack development. Familiar with using Git.</h3>
+<p><small>М</small></p>
