@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Vadim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Full-Stack Developer from Russia 🇷🇺</h3>
-<h3 align="center">Technologies and Stacks: </h3>
+<h3 align="center">Experience:</h3>
+<h3 align="center">Created projects using various technologies. Worked on both front-end and back-end development, as well as full stack development. Familiar with using Git.</h3>
