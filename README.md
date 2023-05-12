@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 <h3 font-size: 24px align="center">Experience:</h3>
 
 <p font-size: 18px align="center">Created projects using various technologies. Worked on both front-end and back-end development, as well as full stack development. Familiar with using Git.</p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
