@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Vadim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## Full-Stack Developer from Russia 🇷🇺
+## ✨ Full-Stack Developer from Russia 🇷🇺
 
 
 
