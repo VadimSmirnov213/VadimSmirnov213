@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 ### How to reach me
 [![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:vadim.smirnov8877@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimSmirnov213&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
