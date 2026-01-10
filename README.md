@@ -57,7 +57,7 @@ Vadim Smirnov 👋
 ---
 
 ### 📊 Статистика GitHub
-![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=твой_логин_на_гитхабе&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твой_логин_на_гитхабе&layout=compact&theme=radical)
+![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimSmirnov213&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimSmirnov213&layout=compact&theme=radical)
 
 ---
