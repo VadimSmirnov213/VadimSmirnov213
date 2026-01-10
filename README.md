@@ -56,8 +56,26 @@ Vadim Smirnov 👋
 
 ---
 
-### 📊 Статистика GitHub
-![Vadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadimSmirnov213&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimSmirnov213&layout=compact&theme=radical)
+### 📊 Моя активность
+
+<p align="center">
+  <!-- GitHub Trophies (Трофеи за вклад в Open Source) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=VadimSmirnov213&theme=radical&no-frame=true&column=4" alt="github trophy" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Основная статистика -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VadimSmirnov213&show_icons=true&theme=radical&hide_border=false" width="400" alt="Vadim's GitHub stats" />
+  
+  <!-- Топ языков -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimSmirnov213&layout=compact&theme=radical&hide_border=false" width="300" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <!-- Статистика коммитов (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VadimSmirnov213&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
