@@ -1,23 +1,4 @@
-# Вадим Смирнов
+Hey 👋, I'm Vadim!
 
----
-
-## Языки
-
-Используемые языки по публичным репозиториям:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimSmirnov213&layout=compact&theme=default)](https://github.com/VadimSmirnov213)
-
----
-
-## Статистика
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VadimSmirnov213&show_icons=true&theme=default)](https://github.com/VadimSmirnov213)
-
----
-
-## Контакт
-
-- **GitHub:** [VadimSmirnov213](https://github.com/VadimSmirnov213)
-
-*Замените имя, фамилию и `VadimSmirnov213` на свои данные.*
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s_8877)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
